@@ -113,8 +113,10 @@ Comandos diversos
 --
 	alias
 	export
+	unset
 	env
 	ln
+	unlink
 	bash
 	sh
 	sed
