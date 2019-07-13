@@ -9,8 +9,8 @@ sudo apt update
 sudo apt list --upgradable
 sudo apt upgrade -y
 
-#install a decent terminal
-sudo apt install terminator
+#install a decent terminal and editor
+sudo apt install -y terminator vim
 
 #install ssh
 sudo apt install openssh-server
