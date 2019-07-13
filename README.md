@@ -179,6 +179,7 @@ Comandos diversos
 	vmstat
 	zgrep
 	vim
+	source
 	
 Comandos que eu não, uso mas existem
 --
