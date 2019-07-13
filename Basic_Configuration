@@ -1,0 +1,16 @@
+#check ip address and connectivity
+ip -c a
+nslookup www.uol.com.br
+ping 192.168.56.1
+ping www.uol.com.br
+
+#update and upgrade
+sudo apt update
+sudo apt list --upgradable
+sudo apt upgrade -y
+
+#install a decent terminal
+sudo apt install terminator
+
+#install net-tools
+sudo apt install net-tools
