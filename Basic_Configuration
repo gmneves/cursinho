@@ -12,5 +12,10 @@ sudo apt upgrade -y
 #install a decent terminal
 sudo apt install terminator
 
+#install ssh
+sudo apt install openssh-server
+systemctl status sshd.service
+ss -ntulp | grep :22
+
 #install net-tools
 sudo apt install net-tools
