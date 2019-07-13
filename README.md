@@ -92,12 +92,15 @@ Redirecionadores, operadores, curingas, atalhos...
 	*
 	?
 	ˆC
+	ˆA
+	ˆE
+	ˆW
 	ˆZ
 	ˆS
 	ˆQ
 	ˆL
 	ˆD
-
+	
 Variáveis de ambiente
 --
 	PATH
@@ -172,7 +175,10 @@ Comandos diversos
 	ulimit
 	dos2unix
 	lsof
-
+	uptime
+	vmstat
+	zgrep
+	**vim**
 Comandos que eu não, uso mas existem
 --
 	clear
