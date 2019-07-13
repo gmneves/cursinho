@@ -2,25 +2,26 @@
 Cursinho de Linux do Gui
 
 Bem vindo ao Cursinho de Linux do Gui
---
+
 LINKS
 --
 https://github.com/gmneves/cursinho
 http://dontpad.com/CursinhoDeLinuxDoGui
 http://itsfoss.com
 
---
 AGENDA
 --
 
 Neste cursinho abordaremos os seguintes temas:
 
 História
+--
 	Linus
 	Minix
 	Tux
 
 Distribuições
+--
 	Debian
 	Ubuntu
 	RedHat
@@ -30,14 +31,17 @@ Distribuições
 	Kali
 
 Instalação
+--
 	Ubuntu
 
 Gerenciador de pacotes
+--
 	apt
 	aptitude
 	yum (RedHat)
 
 Gerenciamento de arquivos e diretórios
+--
 	ls
 	mkdir
 	touch
@@ -62,6 +66,7 @@ Gerenciamento de arquivos e diretórios
 	
 
 Estrutura de diretórios
+--
 	/
 	/bin
 	/sbin
@@ -75,6 +80,7 @@ Estrutura de diretórios
 	/proc
 
 Redirecionadores, operadores, curingas, atalhos...
+--
 	~
 	-
 	.
@@ -95,10 +101,9 @@ Redirecionadores, operadores, curingas, atalhos...
 	ˆQ
 	ˆL
 	ˆD
-	
-	
 
 Variáveis de ambiente
+--
 	PATH
 	DISPLAY
 	PWD
@@ -106,6 +111,7 @@ Variáveis de ambiente
 	PS1
 	
 Comandos 'avançados'
+--
 	export
 	env
 	ln
@@ -168,6 +174,7 @@ Comandos 'avançados'
 	dos2unix
 
 Comandos que eu não uso mas existem
+--
 	clear
 	exit
 	dc
@@ -181,5 +188,6 @@ Comandos que eu não uso mas existem
 	
 
 NUNCA!
+--
 	#rm -rf /
 	#:(){:|:&};:
