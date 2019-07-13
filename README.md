@@ -4,9 +4,9 @@ Bem vindo ao Cursinho de Linux do Gui
 
 Links úteis
 --
-https://github.com/gmneves/cursinho
-http://dontpad.com/CursinhoDeLinuxDoGui
-http://itsfoss.com
+- https://github.com/gmneves/cursinho
+- http://dontpad.com/CursinhoDeLinuxDoGui
+- http://itsfoss.com
 
 Assuntos
 --
