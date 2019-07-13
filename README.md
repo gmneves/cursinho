@@ -2,16 +2,14 @@
 
 Bem vindo ao Cursinho de Linux do Gui
 
-LINKS
+Links úteis
 --
 https://github.com/gmneves/cursinho
 http://dontpad.com/CursinhoDeLinuxDoGui
 http://itsfoss.com
 
-AGENDA
+Assuntos
 --
-Neste cursinho abordaremos os seguintes temas:
-
 História
 --
 	Linus
@@ -145,6 +143,7 @@ Comandos diversos
 	systemctl
 	man
 	kill
+	killall
 	ps
 	pgrep
 	pkill
@@ -164,6 +163,7 @@ Comandos diversos
 	unzip
 	gzip
 	ssh
+	scp
 	shutdown
 	halt
 	free
@@ -171,6 +171,7 @@ Comandos diversos
 	uname
 	ulimit
 	dos2unix
+	lsof
 
 Comandos que eu não, uso mas existem
 --
