@@ -172,7 +172,7 @@ Comandos diversos
 	ulimit
 	dos2unix
 
-Comandos que eu não uso mas existem
+Comandos que eu não, uso mas existem
 --
 	clear
 	exit
@@ -186,7 +186,7 @@ Comandos que eu não uso mas existem
 	rev
 	
 
-NUNCA!
+NUNCA! Se perguntarem, você não viu aqui hein!
 --
 	#rm -rf /
 	#:(){:|:&};:
