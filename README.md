@@ -1,5 +1,4 @@
-# cursinho
-Cursinho de Linux do Gui
+# Cursinho de Linux do Gui
 
 Bem vindo ao Cursinho de Linux do Gui
 
