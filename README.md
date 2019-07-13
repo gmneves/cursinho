@@ -178,7 +178,8 @@ Comandos diversos
 	uptime
 	vmstat
 	zgrep
-	**vim**
+	vim
+	
 Comandos que eu não, uso mas existem
 --
 	clear
