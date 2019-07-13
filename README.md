@@ -185,8 +185,8 @@ Comandos que eu não, uso mas existem
 	hollywood
 	sl
 	rev
+	tac
 	
-
 NUNCA! Se perguntarem, você não viu aqui hein!
 --
 	#rm -rf /
