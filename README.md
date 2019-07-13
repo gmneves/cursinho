@@ -11,6 +11,7 @@ http://itsfoss.com
 
 --
 AGENDA
+--
 
 Neste cursinho abordaremos os seguintes temas:
 
@@ -164,7 +165,7 @@ Comandos 'avançados'
 	crontab
 	uname
 	ulimit
-	
+	dos2unix
 
 Comandos que eu não uso mas existem
 	clear
@@ -182,5 +183,3 @@ Comandos que eu não uso mas existem
 NUNCA!
 	#rm -rf /
 	#:(){:|:&};:
-
---
