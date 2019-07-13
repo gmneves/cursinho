@@ -10,7 +10,6 @@ http://itsfoss.com
 
 AGENDA
 --
-
 Neste cursinho abordaremos os seguintes temas:
 
 História
@@ -27,7 +26,7 @@ Distribuições
 	Fedora
 	Centos
 	Slackware
-	Kali
+	Kali / Backtrack
 
 Instalação
 --
@@ -35,9 +34,9 @@ Instalação
 
 Gerenciador de pacotes
 --
-	apt
+	apt / apt-get
 	aptitude
-	yum (RedHat)
+	yum/rpm (RedHat)
 
 Gerenciamento de arquivos e diretórios
 --
@@ -109,8 +108,9 @@ Variáveis de ambiente
 	OLDPWD
 	PS1
 	
-Comandos 'avançados'
+Comandos diversos
 --
+	alias
 	export
 	env
 	ln
