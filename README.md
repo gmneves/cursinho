@@ -183,7 +183,7 @@ Comandos diversos
 	vim
 	source
 	
-Comandos que eu não, uso mas existem
+Comandos que eu não uso, mas existem
 --
 	clear
 	exit
