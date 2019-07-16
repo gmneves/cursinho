@@ -111,6 +111,7 @@ Variáveis de ambiente
 	
 Comandos diversos
 --
+	dhcpclient
 	alias
 	export
 	unset
