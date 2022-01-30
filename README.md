@@ -1,10 +1,7 @@
-# Cursinho de Linux do Gui
-
-Bem vindo ao Cursinho de Linux do Gui
+# Dicas Linux by Gui Neves
 
 Links úteis
 --
-- https://github.com/gmneves/cursinho
 - http://dontpad.com/CursinhoDeLinuxDoGui
 - http://itsfoss.com
 
@@ -26,15 +23,11 @@ Distribuições
 	Slackware
 	Kali / Backtrack
 
-Instalação
---
-	Ubuntu
-
-Gerenciador de pacotes
+Gerenciadores de pacotes
 --
 	apt / apt-get
 	aptitude
-	yum/rpm (RedHat)
+	dnf/yum/rpm (RedHat)
 
 Gerenciamento de arquivos e diretórios
 --
@@ -59,7 +52,6 @@ Gerenciamento de arquivos e diretórios
 	sort
 	uniq
 	diff
-	
 
 Estrutura de diretórios
 --
@@ -183,8 +175,14 @@ Comandos diversos
 	zgrep
 	vim
 	source
+	if
+	while
+	lsblk
+	lvs
+	pvs
+	vgs
 	
-Comandos que eu não uso, mas existem
+Comandos diversos
 --
 	clear
 	exit
@@ -198,7 +196,7 @@ Comandos que eu não uso, mas existem
 	rev
 	tac
 	
-NUNCA! Se perguntarem, você não viu aqui hein!
+Coisas para NÃO FAZER :-P
 --
 	#rm -rf /
 	#:(){:|:&};:
