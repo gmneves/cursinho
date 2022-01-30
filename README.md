@@ -2,16 +2,9 @@
 
 Links úteis
 --
-- http://dontpad.com/CursinhoDeLinuxDoGui
 - http://itsfoss.com
+- https://github.com/gmneves/cursinho
 
-Assuntos
---
-História
---
-	Linus
-	Minix
-	Tux
 
 Distribuições
 --
@@ -27,7 +20,9 @@ Gerenciadores de pacotes
 --
 	apt / apt-get
 	aptitude
-	dnf/yum/rpm (RedHat)
+	dnf
+	yum
+	rpm
 
 Gerenciamento de arquivos e diretórios
 --
@@ -181,6 +176,9 @@ Comandos diversos
 	lvs
 	pvs
 	vgs
+
+	podman
+	docker
 	
 Comandos diversos
 --
@@ -200,3 +198,7 @@ Coisas para NÃO FAZER :-P
 --
 	#rm -rf /
 	#:(){:|:&};:
+
+Aleatoriedades
+--
+	HISTTIMEFORMAT="%d/%m/%y %T "
