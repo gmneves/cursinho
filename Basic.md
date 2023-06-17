@@ -11,8 +11,8 @@ Verificar diretório atual
 --
 - Comando: **pwd**
 
-"Print Working Directory"
-Comando somente leitura, utilizado apenas para exibir o diretório em que o operador está posicionado.
+"Print Working Directory"  
+Comando somente leitura, utilizado apenas para exibir o diretório em que o operador está posicionado.  
 
 Exemplo de execução
 --
@@ -25,8 +25,8 @@ Listagem de diretórios
 
 - Comando: **ls**
 
-"List"
-Comando somente leitura, utilizado para listar conteúdo de diretórios, pode ser utilizado com ou sem parâmetros, que modificam a saída.
+"List"  
+Comando somente leitura, utilizado para listar conteúdo de diretórios, pode ser utilizado com ou sem parâmetros, que modificam a saída.  
 
 
 Exemplos de execução:
