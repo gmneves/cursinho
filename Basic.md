@@ -13,7 +13,7 @@ Nota: No Linux, com poucas exceções, parâmetros simples compostos por apenas 
 "Print Working Directory"  
 Comando somente leitura, utilizado apenas para exibir o diretório em que o operador está posicionado.  
 
-### Exemplo de execução
+### Exemplo de execução do pwd
 ```console
 pwd
 ```
@@ -26,7 +26,7 @@ pwd
 Comando somente leitura, utilizado para listar conteúdo de diretórios, pode ser utilizado com ou sem parâmetros, que modificam a saída.  
 
 
-### Exemplos de execução:
+### Exemplos de execução do ls
 
 - Lista
 ```console 
