@@ -4,24 +4,20 @@ O sistema operacional Linux possui uma estrutura hierárquica, com diretórios e
 
 Nota: No Linux, com poucas exceções, parâmetros simples compostos por apenas 1 caracter e sem argumentos adicionais podem ser descritos de forma encadeada, ou separada, como exemplificado abaixo.
 
-Básico de listagem e navegação
---
-
-Verificar diretório atual
---
+##Básico de listagem e navegação
+---
+##Verificar diretório atual
 - Comando: **pwd**
 
 "Print Working Directory"  
 Comando somente leitura, utilizado apenas para exibir o diretório em que o operador está posicionado.  
 
-Exemplo de execução
----
+###Exemplo de execução
 ```console
 pwd
 ```
-
-Listagem de diretórios
---
+---
+##Listagem de diretórios
 
 - Comando: **ls**
 
@@ -29,8 +25,7 @@ Listagem de diretórios
 Comando somente leitura, utilizado para listar conteúdo de diretórios, pode ser utilizado com ou sem parâmetros, que modificam a saída.  
 
 
-Exemplos de execução:
----
+###Exemplos de execução:
 
 - Lista
 ```console 
