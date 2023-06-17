@@ -15,7 +15,7 @@ Verificar diretório atual
 Comando somente leitura, utilizado apenas para exibir o diretório em que o operador está posicionado.  
 
 Exemplo de execução
---
+---
 ```console
 pwd
 ```
@@ -30,7 +30,7 @@ Comando somente leitura, utilizado para listar conteúdo de diretórios, pode se
 
 
 Exemplos de execução:
---
+---
 
 - Lista
 ```console 
