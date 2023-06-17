@@ -6,6 +6,8 @@ Nota: No Linux, com poucas exceções, parâmetros simples compostos por apenas 
 
 ## Básico de listagem e navegação
 ---
+
+
 ## Verificar diretório atual
 - Comando: **pwd**
 
