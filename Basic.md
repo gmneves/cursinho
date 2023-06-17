@@ -5,7 +5,6 @@ O sistema operacional Linux possui uma estrutura hierárquica, com diretórios e
 Nota: No Linux, com poucas exceções, parâmetros simples compostos por apenas 1 caracter e sem argumentos adicionais podem ser descritos de forma encadeada, ou separada, como exemplificado abaixo.
 
 ## Básico de listagem e navegação
----
 
 
 ## Verificar diretório atual
