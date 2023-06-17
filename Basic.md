@@ -1,6 +1,6 @@
 # Trabalhando com diretórios
 
-O sistema operacional Linux possuí uma estrutura hierárquica, com diretórios e subdiretórios, com atributos e permissões específicas, e com propósitos distintos.
+O sistema operacional Linux possui uma estrutura hierárquica, com diretórios e subdiretórios, com atributos e permissões específicas, e com propósitos distintos.
 
 Básico de listagem e navegação
 --
@@ -12,7 +12,7 @@ Listagem de diretórios
 
 Comando somente leitura, utilizado para listar conteúdo de diretórios, pode ser utilizado com ou sem parâmetros, que modificam a saída.
 
-De forma geral no Linux, parâmetros simples que são compostos por apenas 1 caracter e sem argumentos adicionais podem ser descritos de forma encadeada, ou separada.
+No Linux, com poucas exceções, parâmetros simples compostos por apenas 1 caracter e sem argumentos adicionais podem ser descritos de forma encadeada, ou separada.
 
 Exemplos de execução:
 --
