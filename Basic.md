@@ -70,7 +70,7 @@ ls -l -t -r
 
 - Comando: **cd**
 
-"Change Directory"
+"Change Directory"  
 Comando utilizado para alterar o diretório corrente no prompt de comando.
 
 ### Exemplos de execução do cd
