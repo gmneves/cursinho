@@ -66,7 +66,7 @@ ls -l -t -r
 ```
 
 
-## Trocar o diretório atual
+## Trocar o diretório de trabalho
 
 - Comando: **cd**
 
