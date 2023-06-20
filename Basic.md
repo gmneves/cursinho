@@ -64,3 +64,39 @@ ls -l -S -r
 ls -ltr
 ls -l -t -r
 ```
+
+
+## Trocar o diretório atual
+
+- Comando: **cd**
+
+"Change Directory"
+Comando utilizado para alterar o diretório corrente no prompt de comando.
+
+### Exemplos de execução do cd
+
+
+- Relativo - acessar o diretório XPTO, existente no diretório atual
+```console
+cd XPTO
+```
+
+- Absoluto - acessar o diretório XPTO utilizando o caminho completo
+```console
+cd /home/usuario/XPTO
+```
+
+- Voltar para o diretório anterior
+```console
+cd ..
+```
+
+- Voltar para o diretório home do usuário atual
+```console
+cd
+```
+
+- Alternar entre o diretório atual e o último diretório visitado
+```console
+cd -
+```
